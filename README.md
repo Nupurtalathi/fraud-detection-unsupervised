@@ -223,8 +223,8 @@ ieee-fraud-detection/
 ---
 
 ## Author
-
-First Year CSE (AI) Student  
+Nupur Talathi
+First Year CSE (AI) Student in VIT Pune
 Built in 6 hours as an unsupervised ML portfolio project
 
 
